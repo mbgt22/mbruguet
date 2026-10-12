@@ -2,7 +2,7 @@ project:
   output-dir: docs/en
 
 website:
-  title: "Ketsia Guichard"
+  title: "Mathilde Bruguet"
   navbar:
     left:
       - href: index.qmd
@@ -23,10 +23,10 @@ website:
         text: English
     search: false
   page-footer: 
-    left: This site was built using [Quarto](https://quarto.org/) - last updated March 2026.
+    left: This site was built using [Quarto](https://quarto.org/) - last updated October 2026.
     right: 
      - icon: github
-       href: https://github.com/KetsiaGuichard/academic-page
+       href: https://github.com/mbgt22/mbruguet
 
 lang: en
 
