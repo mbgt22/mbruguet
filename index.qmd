@@ -1,6 +1,6 @@
 ---
 title: "Mathilde Bruguet"
-image: content/profile.jpeg
+image: content/profile.JPG
 about:
   template: jolla
   links:
