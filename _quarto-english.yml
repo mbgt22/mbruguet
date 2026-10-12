@@ -17,9 +17,9 @@ website:
       - href: others.qmd
         text: Other activities
     right:
-      - href: docs/fr
+      - href: ../fr
         text: Français
-      - href: docs/en
+      - href: ../en
         text: English
     search: false
   page-footer: 
@@ -32,7 +32,7 @@ lang: en
 
 format:
   html:
-    theme: cosmo
+    theme: slate
     css: styles.css
     toc: false
     include-in-header: 
