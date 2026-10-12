@@ -1,32 +1,38 @@
 ---
-title: "Ketsia Guichard-Sustowski"
+title: "Mathilde Bruguet"
 image: content/profile.jpeg
 about:
   template: jolla
   links:
     - icon: linkedin
       text: Linkedin
-      href: https://www.linkedin.com/in/ketsiaguichard/
+      href: https://www.linkedin.com/in/mathilde-bruguet/
     - icon: github
       text: Github
-      href: https://github.com/KetsiaGuichard
+      href: https://github.com/mbgt22
     - icon: mailbox2
       text: Contact
-      href: mailto::ketsia.guichard@univ-rennes.fr
+      href: mailto::mathilde.bruguet@agrocampus-ouest.fr
 ---
 
 ::: {.content-visible when-profile="french"}
-Je suis doctorante en statistique depuis octobre 2023 à l'[IRMAR](https://irmar.univ-rennes.fr/), sous l'encadrement de [Loïc Le Marrec](https://irmar.univ-rennes.fr/interlocuteurs/loic-le-marrec), [Véronique Thelen](https://sites.google.com/site/thelenveronique/home) et [Ioana Gavra](https://irmar.univ-rennes.fr/interlocuteurs/ioana-gavra). Mes travaux de recherche portent sur le partitionnement de graphes dotés d’attributs hétérogènes, à l’aide de méthodes issues du transport optimal, et plus particulièrement de la distance de Gromov-Wasserstein. Mes recherches s’inscrivent dans le cadre de l’analyse des déplacements au sein d’un réseau routier, avec pour terrain de jeu [la ville de Châteaubourg](https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/mobilites/etude-statistique-des-donnees-de-mobilite/).
+Je suis doctorante en statistique depuis novembre 2024 à l'[IRMAR](https://irmar.univ-rennes.fr/), sous l'encadrement de [David Causeur](https://dcauseur.netlify.app/), [Nadia Ponts](https://microbio-na.com/collaborateur/ponts-nadia/) et [Gaël Le Trionnaire](https://igepp.hub.inrae.fr/annuaire/le-trionnaire-gael). Mes travaux de recherche portent sur les mélanges de modèles de régressions dans un cadre gaussien et plus spécifiquement, dans le cadre d'une approche multi-view, c'est-à-dire au sein de différents groupes. Mes recherches s'appliquent à l'analyse de données épigénétiques, afin de déterminer des modèles d'associations entre accessibilité de la chromatine et expression de gènes. Plus spécifiquement, l'approche multi-view permet de déterminer des différences d'un groupe à l'autre. Ces approches s'inscrivent sur le modèle Fusarium graminearum, un organisme phytopathogène du blé dont la virulence est supposée s'accroître, due au changement environnemental via des mécanismes épigénétiques. L'étude de ces mécanismes en amont est donc essentielle à la compréhension de cet organisme aux retombées économiques importantes sur le blé.  
 
-Diplômée de l'[ENSAI](https://ensai.fr/), j'ai travaillé six années en tant que Data Scientist. Mon parcours professionnel m’a permis de développer une solide expertise dans la manipulation de données réelles, ainsi que de fortes capacités de vulgarisation et de communication scientifique. Après une première expérience d’enseignement en école d’ingénieur, j’ai entrepris un doctorat comme une nouvelle étape de mon parcours, guidée par mon intérêt pour les enjeux éthiques. Mes travaux explorent à la fois des applications concrètes dans le domaine des mobilités et des contributions méthodologiques en statistique dans un cadre plus général.
+Diplômée de l'[Institut Agro Rennes - Angers ](https://www.institut-agro-rennes-angers.fr/), j'ai réalisé une spécialisation en Data Science à la fin de mon parcours d'Ingénieur en Horticulture. Les approches statistiques me permettent aujourd'hui de mettre en oeuvre des analyses spécifiques à la biologie et spécifiquement à la génomique, domaine que j'ai largement étudié notamment chez les plantes et leurs ravageurs et bioagresseurs. 
 
-Actuellement en dernière année de thèse, je suis à la recherche d’un post-doctorat en statistique appliquée. Au cours de ma thèse, j’ai travaillé sur des thématiques telles que le clustering, les données fonctionnelles, les graphes et le transport optimal. Je porte également un vif intérêt à d’autres problématiques statistiques, notamment la détection d’anomalies et l’adaptation de domaine, ainsi qu’à d’autres champs d’application, en particulier les sciences humaines et sociales et l’économie.
+
+
+Actuellement en dernière année de thèse, j'entreprends de poursuivre une carrière académique. 
 :::
 
 ::: {.content-visible when-profile="english"}
-I have been a PhD student in statistics since October 2023 at [IRMAR](https://irmar.univ-rennes.fr/), under the supervision of [Loïc Le Marrec](https://irmar.univ-rennes.fr/interlocuteurs/loic-le-marrec), [Véronique Thelen](https://sites.google.com/site/thelenveronique/home) and [Ioana Gavra](https://irmar.univ-rennes.fr/interlocuteurs/ioana-gavra). My research focuses on the partitioning of graphs with heterogeneous attributes using methods from optimal transport, with a particular emphasis on the Gromov–Wasserstein distance. My work is motivated by the analysis of mobility patterns within a road network, using the city of [Châteaubourg](https://www.agistaterre.org/creez-votre-site-avec-des-blocs/nos-actions/mobilites/etude-statistique-des-donnees-de-mobilite/) as my playground.
+I have been a doctoral student in statistics since November 2024 at [IRMAR](https://irmar.univ-rennes.fr/), under the supervision of [David Causeur](https://dcauseur.netlify.app/), [Nadia Ponts](https://microbio-na.com/collaboration/ponts-nadia/) and [Gaël Le Trionaire](https://igepp.hub.inrae.fr/annuaire/le-trionnaire-gael). 
 
-Graduated from [ENSAI](https://ensai.fr/), I worked for six years as a Data Scientist. This professional experience allowed me to develop strong expertise in handling real-world data, as well as solid skills in scientific communication and knowledge dissemination. After an initial teaching experience in an engineering school, I decided to pursue a PhD as a new step in my career, driven by my interest in ethical issues. My research explores both concrete applications in the field of mobility and methodological contributions to statistics in a broader context.
 
-I am currently in the final year of my PhD and am seeking a postdoctoral position in applied statistics. During my doctoral research, I have worked on topics including clustering, functional data analysis, graph data, and optimal transport. I am also highly interested in other statistical problems, such as anomaly detection and domain adaptation, as well as in other application areas, particularly in the social sciences and economics.
+My research focuses on the mixtures of regression models in a Gaussian framework and more specifically, in the context of a multi-view approach, that is to say within different groups. My research is applied to the analysis of epigenetic data, in order to determine models of associations between chromatin accessibility and gene expression. More specifically, the multi-view approach makes it possible to determine differences from one group to another. These approaches are based on the model of Fusarium graminearum, a wheat phytopathogenic organism whose virulence is supposed to increase due to environmental change via epigenetic mechanisms. The study of these mechanisms upstream is therefore essential to understanding this organism with significant economic impacts on wheat.
+Graduated from the [Institut Agro Rennes - Angers](https://www.institut-agro-rennes-angers.fr/), I completed a specialization in Data Science at the end of my studies as an Engineer in Horticulture. Statistical approaches now allow me to carry out analyses specific to biology and specifically to genomics, a field I have studied extensively, particularly in plants and their pests and pests. 
+
+
+Currently in the final year of my thesis, I am pursuing an academic career.
+
 :::

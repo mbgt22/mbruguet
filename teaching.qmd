@@ -1,162 +1,51 @@
-
-::: {.content-visible when-profile="french"}
+:::::: {.content-visible when-profile="french"}
 ::: {.callout-tip icon="false" collapse="false" appearance="minimal"}
+# Année 2026-2027
+
+##### TD - Démarches Statistiques (L'Institut -Agro)
+
+-   TD L3 Agronome- Annova - Modélisation - Plan d'expérience
+:::
+
+::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 # Année 2025-2026
 
-##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
+##### TD - Démarches Statistiques (L'Institut -Agro)
 
--   Cours magistral - Remise à niveau en probabilités et statistiques pour le master Sciences du Numérique et Sport (22h - Niveau M1)
-
-##### Université de Rennes
-
--   TD d'analyse en L1 Mathématiques (36h)
+-   TD L3 Agronome- Annova - Modélisation - Plan d'expérience
 :::
 
 ::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 # Année 2024-2025
 
-##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
+##### TD - Démarches Statistiques (L'Institut -Agro)
 
--   Cours magistral - Remise à niveau en probabilités et statistiques pour le master Sciences du Numérique et Sport (22h - Niveau M1)
+-   TD L3 Agronome- Annova - Modélisation - Plan d'expérience
+:::
+::::::
 
-##### Université de Rennes
+:::::: {.content-visible when-profile="english"}
+::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
+# Academic Year 2026-2027
 
--   TP - Outils informatiques (Algorithmie) en L1 Mathématiques et application (24h)
+##### Statistical Approach
 
-##### ENSAI
-
--   Présidence de jury - projet statistique de deuxième année (niveau M1)
--   Vice-présidence de jury - stage de fin d'étude (niveau M2)
-
+Tutorial L3 Agronomy - Annova - Modeling - Experimental design
 :::
 
 ::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
-# Année 2023-2024
-
-##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
-
--   Cours magistral - Remise à niveau en probabilités et statistiques pour le master Sciences du Numérique et Sport (22h - Niveau M1)
-
-##### Université de Rennes
-
--   TP - Outils informatiques (Algorithmie) en L1 Mathématiques et application (24h)
-
-##### Université de Rennes 2
-
--   TD intégré - Mathématiques pour les sciences humaines et sociales en L1 AES (24h)
-
-##### ENSAI
-
--   Présidence de jury - projet statistique de deuxième année
-:::
-
-::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
-# Année 2022-2023
-
-##### ENSAI
-
--   Cours magistral - Statistique exploratoire, visualisation de données et data-storytelling (24h - Master Spécialisé)
-
--   TD - Chaîne de Markov (18h - Niveau M1)
-
--   TP - Statistique descriptive avec SAS (30h - Niveau L3)
-
--   TP - Introduction à la programmation objet avec Python (42h - Niveau L3)
-
--   Accompagnement de projet - Projet statistique sur données réelles (36h - 8 groupes - Niveau L3)
-
--   Présidence de jury - projet statistique de deuxième année
-:::
-
-::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
-# Année 2021-2022
-
-##### ENSAI
-
--   Cours magistral - Datavisualisation et data-storytelling (18h - Master Spécialisé)
-
--   Présidence de jury - projet statistique de deuxième année
-:::
-:::
-
-::: {.content-visible when-profile="english"}
-::: {.callout-tip icon="false" collapse="false" appearance="minimal"}
 # Academic Year 2025-2026
 
-##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
+##### Statistical Approach
 
--   Lecture - Probability and Statistics Review for the Master's in Digital Sciences and Sports (22 hours - M1)
-
-##### Université de Rennes
-
--   Tutorial - Analysis (36h - L1)
-
+Tutorial L3 Agronomy - Annova - Modeling - Experimental design
 :::
-
 
 ::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
 # Academic Year 2024-2025
 
-##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
+##### Statistical Approach
 
--   Lecture - Probability and Statistics Review for the Master's in Digital Sciences and Sports (22 hours - M1)
-
-##### Université de Rennes
-
--   Practical Work - Computer Tools (Algorithmics) (24h - L1)
-
-##### ENSAI
-
--   Jury President - Second-Year Statistics Project (M1)
--   Jury Vice-President - Last-Year Internship (M2)
-
+Tutorial L3 Agronomy - Annova - Modeling - Experimental design
 :::
-
-
-::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
-# Academic Year 2023-2024
-
-##### Digisport (ENSAI, ENS Rennes, Université Rennes 2)
-
--   Lecture - Probability and Statistics Review for the Master's in Digital Sciences and Sports (22 hours - M1)
-
-##### Université de Rennes
-
--   Practical Work - Computer Tools (Algorithmics) (24h - L1)
-
-##### Université de Rennes 2
-
--   Lecture & Tutorial - Mathematics for Social Sciences (24 hours - L1)
-
-##### ENSAI
-
--   Jury President - Second-Year Statistics Project
-:::
-
-::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
-# Academic Year 2022-2023
-
-##### ENSAI
-
--   Lecture - Exploratory Statistics, Data Visualization, and Data Storytelling (24 hours - Specialized Master's)
-
--   Tutorial - Markov Chain (18 hours - M1)
-
--   Practical Work - Introduction to Object-Oriented Programming with Python (42 hours - L3)
-
--   Project Guidance - Statistical Project on Real Data (36 hours - 8 groups - L3)
-
--   Jury President - Second-Year Statistics Project
-:::
-
-::: {.callout-tip icon="false" collapse="true" appearance="minimal"}
-# Academic Year 2021-2022
-
-##### ENSAI
-
--   Lecture - Data Visualization and Data Storytelling (18 hours - Specialized Master's)
-
--   Jury President - Second-Year Statistics Project
-:::
-:::
-
+::::::

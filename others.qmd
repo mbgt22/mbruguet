@@ -1,25 +1,16 @@
 ::: {.content-visible when-profile="french"}
-### Diffusion
--   2025 (mai): **La ville comme un réseau de route: que peuvent nous apprendre les statistiques sur nos déplacements ?**, [Remise de prix du Rallye Mathématique de Bretagne](https://irem.univ-rennes.fr/presentation-du-rallye-mathematique-de-bretagne), IREM de Rennes
--   2025 (février) : **Quand les déplacements deviennent une question statistique**, ["Filles, maths, info"](https://www.youtube.com/watch?v=QrtlUwNWwzY) de l'Université de Rennes
--   2024 (février) : Participation aux speed-meeting des journées ["Filles, maths, info"](https://filles-et-maths.fr/evenements/journee-filles-maths-info-19-fevrier-2024/) de l'Université de Rennes
--   2023 (octobre) : **Comprendre et rendre accessible les métiers de la "Data"**, [Journées Nationales de l'APMEP](https://jnrennes.apmep.fr/index.php?page=programme/programme&select=conferences)
--   2022 (novembre) : **Statistique et numérique en entreprise**, [Colloque francophone international sur l'enseignement de la statistique](https://cfies2022.sciencesconf.org/resource/page/id/17)
+### Instance
+- Réprésentante au sein du conseil de l'Ecole Doctorale [MATISSE](https://ed-matisse.doctorat-bretagne.fr/fr/associations-de-doctorants)
+- Réprésentante au sein du conseil de l'[IRMAR](https://irmar.univ-rennes.fr/presentation-de-linstitut-de-recherche-mathematique-de-rennes-irmar)
 
-### Animation d'ateliers de sensibilisation
 
-Je suis animatrice de la [Fresque du Sexisme](https://fresque-du-sexisme.org/). Il s'agit d'un atelier d'intelligence collective de 3h ayant pour objectif de déconstruire la mécanique sexiste et se projeter dans une société plus égalitaire. Cet atelier, inspiré du format de la Fresque du Climat, a été construit par l'association Fresque du Sexisme, et est actuellement déployé partout en France. Il permet à la fois de partager des informations et des chiffres clés sur le sexisme, mais également d'offrir un espace de paroles en petit groupe où femmes et hommes peuvent échanger sur les injonctions liées à leur genre.
+
 :::
 
 ::: {.content-visible when-profile="english"}
-### Scientific Outreach
-- 2025 (May): **The city as a road network: what can statistics teach us about our mobility?**, [Award ceremony of the Brittany Mathematical Rally](https://irem.univ-rennes.fr/presentation-du-rallye-mathematique-de-bretagne), IREM of Rennes
--   2025 (March) : **When travel becomes a statistical question**, ["Girls, Math, Info"](https://www.youtube.com/watch?v=QrtlUwNWwzY) day at the University of Rennes
--   2024 (February): Participation in the speed-meeting of the ["Girls, Math, Info"]((https://filles-et-maths.fr/evenements/journee-filles-maths-info-19-fevrier-2024/)) day at the University of Rennes
--   2023 (October): **Understanding and Making Data Careers Accessible**, National Days of [APMEP]((https://jnrennes.apmep.fr/index.php?page=programme/programme&select=conferences))
--   2022 (November): **Statistics and Digital Technology in Business**, [International Francophone Colloquium on the Teaching of Statistics](https://cfies2022.sciencesconf.org/resource/page/id/17)
+### Institution
+- Currently on the board of the Ecole Doctorale [MATISSE](https://ed-matisse.doctorat-brittany.fr/fr/associations-de-doctorants)
+- Representative on the [IRMAR](https://irmar.univ-rennes.fr/presentation-de-linstitut-de-recherche-mathematique-de-rennes-irmar) board.
 
-### Workshop Facilitation
 
-I am a facilitator for the [Fresque du Sexisme](https://fresque-du-sexisme.org/). This is a 3-hour collective intelligence workshop aimed at deconstructing the mechanisms of sexism and envisioning a more equal society. Inspired by the format of the Climate Fresk, this workshop was created by the Fresque du Sexisme association and is currently being implemented throughout France. It not only provides key information and statistics on sexism but also offers a small group discussion space where women and men can share their experiences and thoughts on gender-related expectations.
 :::

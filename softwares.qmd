@@ -1,26 +1,12 @@
 ::: {.content-visible when-profile="french"}
 ### R
 
-Je suis contributrice du package R [**telraamStats**](https://github.com/agistaterre/telraamStats), disponible directement sur le [CRAN](https://cran.r-project.org/web/packages/telraamStats/index.html), qui permet de :
 
--   récupérer facilement les données des capteurs de mobilité Telraam sans passer par l'API ;
--   visualiser ces informations de mobilités (vitesse, trafic...).
-
-Ce package généraliste est à destination de publics variés, tant au niveau des disciplines académiques (statistiques, mobilités, économie, géographie, ...) que des profils professionnels (recherche, association, communes).
-
-Pour un meilleur aperçu du package, vous pouvez consulter sa documentation et ses exemples d'utilisation à [cette adresse](https://annuaire.agistaterre.org/telraamStats/).
 :::
 
 ::: {.content-visible when-profile="english"}
 ### R
 
-I am a contributor and the maintainer to the R package [**telraamStats**](https://github.com/agistaterre/telraamStats), available directly on [CRAN](https://cran.r-project.org/web/packages/telraamStats/index.html), which allows for:
 
--   easily retrieving data from Telraam mobility sensors without using the API ;
--   visualizing this mobility information (speed, traffic, etc.).
-
-This general-purpose package is intended for a wide range of audiences, both in academic disciplines (statistics, mobility, economics, geography, etc.) and professional profiles (research, associations, municipalities).
-
-For a better overview of the package, you can consult its documentation and usage examples at [this adress](https://annuaire.agistaterre.org/telraamStats/).
 :::
 
