@@ -1,5 +1,5 @@
 project:
-  output-dir: /mbruguet/docs/fr
+  output-dir: mbruguet/docs/fr
 
 website:
   title: "Mathilde Bruguet"
@@ -17,16 +17,16 @@ website:
       - href: others.qmd
         text: Autres activités
     right:
-      - href: /mbruguet/fr
+      - href: https://mbgt22.github.io/mbruguet/fr/
         text: Français
-      - href: /mbruguet/en
+      - href: https://mbgt22.github.io/mbruguet/en/
         text: English
     search: false
   page-footer: 
     left: Ce site a été construit à l'aide de [Quarto](https://quarto.org/) - dernière mise à jour Octobre 2026.
     right: 
      - icon: github
-       href: https://github.com/mbgt22/mbruguet
+       href: https://github.com/mbgt22/
 
 lang: fr
 
