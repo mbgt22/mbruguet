@@ -116,11 +116,11 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/mbgt22/mbruguet/docs/fr"> 
+    <a class="nav-link" href="./mbruguet/fr"> 
 <span class="menu-text">Français</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://github.com/mbgt22/mbruguet/docs/en"> 
+    <a class="nav-link" href="./mbruguet/en"> 
 <span class="menu-text">English</span></a>
   </li>  
 </ul>
@@ -149,6 +149,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="passées" class="level4">
 <h4 class="anchored" data-anchor-id="passées">Passées</h4>
 <ul>
+<li>2025 (Mai) :</li>
 <li>2025 (janvier) : <strong>Prédiction de l’expression des gènes à partir de signaux d’encombrement de la chromatine sur l’ensemble du génome chez Fusarium graminearum</strong> , <a href="https://sfb-jjc2025.sciencesconf.org/?lang=fr">Journée des Jeunes Chercheur·e·s de la Société Française de Biométrie 2025 (Bordeaux)</a></li>
 <li>2024 (juillet) : <strong>Prédiction de l’expression des gènes à partir de signaux d’encombrement de la chromatine sur l’ensemble du génome chez <em>Fusarium graminearum</em></strong> , <a href="https://rjs2024.sciencesconf.org">REacTION (Bordeaux))</a></li>
 <li>2024 (mai) : <strong>Prédiction de l’expression génique à l’aide de signaux épigénomiques du génome entier</strong> <a href="https://jds2024.sciencesconf.org/530903/document">(sfds 🔗)</a> ou [(HAL🔗)] (https://hal.science/hal-05792040v1 ), <a href="https://jds2024.sciencesconf.org/">55ème Journée de Statistique de la SFdS (Bordeaux)</a></li>
@@ -238,7 +239,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/mbgt22\.github\.io\/mbruguet\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

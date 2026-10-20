@@ -17,9 +17,9 @@ website:
       - href: others.qmd
         text: Autres activités
     right:
-      - href: https://github.com/mbgt22/mbruguet/fr
+      - href: /mbruguet/fr
         text: Français
-      - href: https://github.com/mbgt22/mbruguet/en
+      - href: /mbruguet/en
         text: English
     search: false
   page-footer: 
