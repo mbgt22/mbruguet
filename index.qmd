@@ -1,10 +1,11 @@
 ---
 title: "Mathilde Bruguet"
 image: content/profile.JPG
-image-width: 20em
-image-shape: round
+
 about:
   template: solana
+  image-width: 20em
+  image-shape: round
   links:
     - icon: linkedin
       text: Linkedin
