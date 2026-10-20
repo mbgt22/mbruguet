@@ -32,7 +32,7 @@ lang: en
 
 format:
   html:
-    theme: slate
+    theme: quartz
     css: styles.css
     toc: false
     include-in-header: 
