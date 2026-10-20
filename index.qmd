@@ -4,7 +4,6 @@ image: content/profile.JPG
 about:
   template: solana
   image-width: 20em
-  image-shape: rounded
   links:
     - icon: linkedin
       text: Linkedin
