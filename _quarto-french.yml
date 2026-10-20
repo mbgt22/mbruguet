@@ -17,9 +17,9 @@ website:
       - href: others.qmd
         text: Autres activités
     right:
-      - href: /mbruguet/fr
+      - href: /fr
         text: Français
-      - href: /mbruguet/en
+      - href: /en
         text: English
     search: false
   page-footer: 
