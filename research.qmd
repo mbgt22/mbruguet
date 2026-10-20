@@ -6,7 +6,7 @@
     ### Conférences & Séminaires
 
 #### Passées
-
+-   2025 (Mai) : 
 -   2025 (janvier) : **Prédiction de l'expression des gènes à partir de signaux d'encombrement de la chromatine sur l'ensemble du génome chez Fusarium graminearum** , [Journée des Jeunes Chercheur·e·s de la Société Française de Biométrie 2025 (Bordeaux)](https://sfb-jjc2025.sciencesconf.org/?lang=fr)
 -   2024 (juillet) : **Prédiction de l’expression des gènes à partir de signaux d’encombrement de la chromatine sur l’ensemble du génome chez *Fusarium graminearum*** , [REacTION (Bordeaux))](https://rjs2024.sciencesconf.org)
 -   2024 (mai) : **Prédiction de l’expression génique à l’aide de signaux épigénomiques du génome entier** [(sfds 🔗)](https://jds2024.sciencesconf.org/530903/document) ou \[(HAL🔗)\] (https://hal.science/hal-05792040v1 ), [55ème Journée de Statistique de la SFdS (Bordeaux)](https://jds2024.sciencesconf.org/)
