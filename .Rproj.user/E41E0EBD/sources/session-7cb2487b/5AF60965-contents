@@ -1,0 +1,40 @@
+project:
+  output-dir: docs/en
+
+website:
+  title: "Mathilde Bruguet"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - cv.qmd
+      - href: research.qmd
+        text: Research
+      - href: softwares.qmd
+        text: Softwares
+      - href: teaching.qmd
+        text: Teaching
+      - href: others.qmd
+        text: Other activities
+    right:
+      - href: ../fr
+        text: Français
+      - href: ../en
+        text: English
+    search: false
+  page-footer: 
+    left: This site was built using [Quarto](https://quarto.org/) - last updated October 2026.
+    right: 
+     - icon: github
+       href: https://github.com/mbgt22/mbruguet
+
+lang: en
+
+format:
+  html:
+    theme: quartz
+    css: styles.css
+    toc: false
+    include-in-header: 
+      file: header.html
+editor: visual

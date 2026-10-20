@@ -1,0 +1,7 @@
+project:
+  type: website
+
+profile:
+  default: french
+  group: 
+    - [english, french]
