@@ -1,5 +1,5 @@
 project:
-  output-dir: docs/fr
+  output-dir: /mbruguet/docs/fr
 
 website:
   title: "Mathilde Bruguet"
@@ -17,9 +17,9 @@ website:
       - href: others.qmd
         text: Autres activités
     right:
-      - href: ../fr
+      - href: /mbruguet/fr
         text: Français
-      - href: ../en
+      - href: /mbruguet/en
         text: English
     search: false
   page-footer: 
