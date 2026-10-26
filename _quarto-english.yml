@@ -17,9 +17,9 @@ website:
       - href: others.qmd
         text: Other activities
     right:
-      - href: ../fr/index.html
+      - href: ../fr
         text: Français
-      - href: ../en/index.html
+      - href: ../en
         text: English
     search: false
   page-footer: 
