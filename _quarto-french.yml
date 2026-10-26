@@ -1,5 +1,5 @@
 project:
-  output-dir: docs/fr
+  output-dir: docs/fr/index.html
 
 website:
   title: "Mathilde Bruguet"

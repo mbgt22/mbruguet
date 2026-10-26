@@ -6,10 +6,21 @@
     ### Conférences & Séminaires
 
 #### Passées
--   2025 (Mai) : 
+-   2026 (Juillet) : **Modèle d’association épigénome-transcriptome utilisant des modèles de régression fonctionnelle.** 
+
+-   2025 (Mai) : **Association à l’échelle du génome entre l’expression génique et l’accessibilité de la chromatine.**,[CNC25 - Channel network conference (Liège)](https://cnc25.sciencesconf.org/?lang=en)
+-   2025 (Mai) : **Modèle de mélange de régressions fonctionnelles pour l'association à l'échelle du génome entre l'expression des gènes et l'accessibilité de la chromatine**,[JDRS 2025 - Journée des doctorants rennais en statistiques ( Rennes)](https://indico.math.cnrs.fr/event/13967/)
 -   2025 (janvier) : **Prédiction de l'expression des gènes à partir de signaux d'encombrement de la chromatine sur l'ensemble du génome chez Fusarium graminearum** , [Journée des Jeunes Chercheur·e·s de la Société Française de Biométrie 2025 (Bordeaux)](https://sfb-jjc2025.sciencesconf.org/?lang=fr)
 -   2024 (juillet) : **Prédiction de l’expression des gènes à partir de signaux d’encombrement de la chromatine sur l’ensemble du génome chez *Fusarium graminearum*** , [REacTION (Bordeaux))](https://rjs2024.sciencesconf.org)
 -   2024 (mai) : **Prédiction de l’expression génique à l’aide de signaux épigénomiques du génome entier** [(sfds 🔗)](https://jds2024.sciencesconf.org/530903/document) ou \[(HAL🔗)\] (https://hal.science/hal-05792040v1 ), [55ème Journée de Statistique de la SFdS (Bordeaux)](https://jds2024.sciencesconf.org/)
+
+### Posters
+
+-   2026 (Janvier) : **Association à l’échelle du génome entre la structure de la chromatine et l’expression des gènes : un mélange de régression scalaire sur fonction couplée à une classification aléatoire des forêts.** [SMPDG - Statistical Methods for Post Genomic Data (Grenoble) ](https://smpgd2026.sciencesconf.org/)
+
+-   2025 (Octobre) : **Association entre l’accessibilité de la chromatine et l’expression des gènes : approche d’apprentissage automatique.**[EFS17: 17th European *Fusarium* Seminar](https://efs17.colloque.inrae.fr/)
+
+
 
 ### Autres activités scientifiques
 
@@ -21,25 +32,31 @@
 ::: {.content-visible when-profile="english"}
 ### Preprint
 
--   
+
 
 ### Talks
 
 #### Past
 
--   2026 (March) : **Attributed Graph Partitioning Using Gromov–Wasserstein–Based Methods**, [COMPACT Team Seminar (IRISA - Rennes)](https://team.inria.fr/compact/)
--   2025 (November): **Attributed Graph Partitioning Using Gromov–Wasserstein–Based Methods**, [Weekly MIA Seminar (Paris-Saclay)](https://mia-ps.inrae.fr/node/866)
--   2025 (November): **Mobility Networks as Attributed Graphs: Partitioning with Distance-Based Methods** [(HAL 🔗)](https://hal.science/hal-05442445v1), [10th Vannes Statistics Meeting – Data Science, History and Territory](https://www.lebesgue.fr/fr/rencontresstat25)
--   2025 (June): **Attributed Graph Partitioning: Comparing K-Means and Optimal Transport in Traffic Applications** [(HAL 🔗)](https://hal.science/hal-05104788v1), [56th Annual Meeting of the French Statistical Society (SFDS) (Marseille)](https://jds2025.sciencesconf.org/)
--   2024 (June): **Mobility in Medium-Density Areas: A Spatio-Temporal Exploration of Citizen Science Data** [(HAL 🔗)](https://hal.science/hal-04854156), [6th Rencontres Francophones Transport Mobilité (Bruxelles)](https://rftm2024.sciencesconf.org/)
--   2024 (June): **telraamStats: Mobility Visualization for Research and Citizens**, [10th Rencontres R (Vannes)](https://rr2024.sciencesconf.org/)[(HAL 🔗)](https://hal.science/hal-04854168)
--   2024 (April): **Exploration of Citizen Mobility Data: Case Study of the City of Châteaubourg** [(HAL 🔗)](https://hal.science/hal-04854133), [10th Rencontres des Jeunes Statisticien·e·s (Porquerolles)](https://rjs2024.sciencesconf.org)
--   2024 (March): **Exploration of Citizen Mobility Data through Functional Data Analysis** [(HAL 🔗)](https://hal.science/hal-04845540), [Journée des Doctorant·e·s Rennais·e·s en Statistique (Rennes)](https://indico.math.cnrs.fr/e/jdrs2024)
+-   2026 (July): **Epigenome-transcriptome association model using functional regression models.** 
+
+-   2025 (May): **Genome-wide association between gene expression and chromatin accessibility. **,[CNC25 - Channel network conference (Liège)](https://cnc25.sciencesconf.org/?lang=en)
+-   2025 (May): **Functional regression mixture model for the genome-wide association between gene expression and chromatin accessibility**,[JDRS 2025 - Journée des doctorants rennais en statistiques (Rennes)](https://indico.math.cnrs.fr/event/13967/)
+-   2025 (January): **Prediction of gene expression from genome-wide chromatin crowding signals in Fusarium graminearum** [Young Researchers' Day·e·s of the French Biometric Society 2025 (Bordeaux)](https://sfb-jjc2025.sciencesconf.org/?lang=fr)
+-   2024 (July): **Prediction of gene expression from genome-wide chromatin crowding signals in *Fusarium graminearum*** , [reaction (Bordeaux))](https://rjs2024.sciencesconf.org)
+-   2024 (May): **Prediction of gene expression using whole-genome epigenomic signals** [(sfds 🔗)](https://jds2024.sciencesconf.org/530903/document) or \[(HAL🔗)\] (https://hal.science/hal-05792040v1 ), [55th SFdS Statistics Day (Bordeaux)](https://jds2024.sciencesconf.org/)
+
+### Posters
+
+
+-   2026 (January): **Genome-wide association between chromatin structure and gene expression: a mixture of scalar regression on function coupled with random forest classification. ** [SMPDG - Statistical Methods for Post Genomic Data (Grenoble)] (https://smpgd2026.sciencesconf.org/)
+
+-   2025 (October): **Association between chromatin accessibility and gene expression: machine learning approach. **[EFS17: 17th European *Fusarium* Seminar](https://efs17.colloque.inrae.fr/)
 
 ### Other Scientific Activities
 
--   Scientific committee of the [Henri Lebesgue Center](https://www.lebesgue.fr/en/content/gouvernance)
--   Co-organization of the PhD Student Statistics Seminar at [IRMAR](https://irmar.univ-rennes.fr/en) since Septembre 2024
--   Co-organization of the Journée Doctorant·e·s Rennais·e·s en Statistique ([March 2024](https://indico.math.cnrs.fr/e/jdrs2024), [May 2025](https://indico.math.cnrs.fr/e/jdrs2025), [April 2026](https://indico.math.cnrs.fr/event/jdrs2026))
--   Scientific committee of the event [Equality and Sciences: The Role of Women](https://agenda.univ-rennes.fr/events/egalite-et-sciences-la-place-des-femmes-edition-2024?nc=eyJpbmRleCI6NDcsInRvdGFsIjoyMTY0fQ%3D%3D) (March 2024)
+
+-   co-organization of the PhD Statistics Seminar at [IRMAR](https://irmar.univ-rennes.fr/) since September 2025
+
+-   co-organization of the Rennes·e·s PhD Day in Statistics ([May 2025](https://indico.mathcnrs.fr/e/jdrs2025), [April 2026](https://indico.mathcnrs.fr/event/jdrs2026/))
 :::
